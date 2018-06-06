@@ -1,0 +1,7 @@
+Interpreter: python 3.6
+
+Libraries: numpy,pandas,matplotlib,sklearn,prettytable,scipy,keras,urllib
+
+DataSet: SVHN http://ufldl.stanford.edu/housenumbers/
+
+Every folder has a readme.txt gives the detail instruction on how to run each classifier
